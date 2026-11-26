@@ -1,0 +1,8 @@
+{
+  "name": "Elena Vance — Creative Portfolio & Studio CMS",
+  "description": "Multidisciplinary creative portfolio and self-contained studio CMS for video editing, graphic design, photography, brand collaborations, and CV management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
